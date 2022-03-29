@@ -5,7 +5,7 @@ This application lists the current number of cases reported across the globe
 
 ## Authors
 
-- [@medicensoya](https://www.github.com/medicensoya)
+- [@medicensolla](https://www.github.com/medicensolla)
 
 
 ## Features
@@ -15,27 +15,27 @@ This application lists the current number of cases reported across the globe
 
 ## Run Locally
 
-- Clone the project
+Clone the project
 
 ```bash
   git clone https://github.com/medicensolla/covid-tracker.git
 ```
-- Initialize The Spring Application
 
-- Run The Home Page In LocalHost
+Go to the project directory
 
 ```bash
- http://localhost:8080/
+  cd my-project
 ```
 
+Install dependencies
 
+```bash
+  npm install
+```
 
+Start the server
 
-
-
-## Build With
-
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Java](https://www.java.com/en/)
-
+```bash
+  npm run start
+```
 
